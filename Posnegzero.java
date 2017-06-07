@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 public class Posnegzero
 {
-public static void main(string args[])
+public static void main(String args[])
 {
 Scanner can=new Scanner(System.in);
 int num=can.nextInt();
